@@ -18,10 +18,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📘 Projects
-- **[Hotspot Management System](#)** – Local WiFi management platform with bandwidth control and user authentication  
-- **[Cybersecurity Vulnerability Assessment Report](#)** – Real-world scan analysis using Nessus  
-- **[Job Aggregator for IT Careers](#)** – Full-stack application to scrape and filter tech job listings  
 
 ## 📈 GitHub Stats
 ![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clementwa0&show_icons=true&theme=radical)
