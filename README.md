@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clementwa0&layout=compact&theme=radical)](https://github.com/Clementwa0)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Clementwa0&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Clementwa0)](https://git.io/streak-stats)
 
 ---
 
