@@ -6,9 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building full-stack applications with **MERN Stack**, **Core PHP**, and **MySQL**
-- 🌱 Exploring **AI-powered software engineering** and **advanced software testing**
-- 🧠 Strong background in **IT support**, **cybersecurity fundamentals**, and **networking**
+I'm Muli Clement Wambua, a Computer Science graduate and self-driven full-stack web developer with strong experience in IT support, networking, and cybersecurity fundamentals. My primary focus is building scalable and secure applications using the MERN stack, REST APIs, and cloud tools like Vercel and MongoDB Atlas.
+
+💡 Currently, I’m enhancing my skills in AI for developers, CI/CD, and secure coding practices, while contributing to open-source and community tech projects in Kenya.
+
 - 📚 Passionate about **open-source projects**, **tech for education**, and **community mentorship**
 - 📫 Reach me: [Email](mailto:clementwa01@gmail.com) | [Portfolio](https://klmportfolio.netlify.app/) | [LinkedIn](https://linkedin.com/in/muli-clement-b5b17b308/)
 
