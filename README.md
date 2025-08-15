@@ -11,7 +11,7 @@ I'm Muli Clement Wambua, a Computer Science graduate and self-driven full-stack 
 💡 Currently, I’m enhancing my skills in AI for developers, CI/CD, and secure coding practices, while contributing to open-source and community tech projects in Kenya.
 
 - 📚 Passionate about **open-source projects**, **tech for education**, and **community mentorship**
-- 📫 Reach me: [Email](mailto:clementwa01@gmail.com) | [Portfolio](https://klmportfolio.netlify.app/) | [LinkedIn](https://linkedin.com/in/muli-clement-b5b17b308/)
+- 📫 Reach me: [Email](mailto:clementwa01@gmail.com) | [Portfolio](https://codewithmuli.vercel.app/) | [LinkedIn](https://linkedin.com/in/muli-clement-b5b17b308/)
 
 ---
 
